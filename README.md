@@ -1,7 +1,7 @@
 #  Financial Q&A Assistant - Fine-tuned LLM
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uRxoNgZum8ZcALEiJ4Amuea_JsBr3CEI#scrollTo=V4HUn5zLD09J)
-[![HuggingFace Space](https://img.shields.io/badge/🤗-HuggingFace%20Space-yellow)](https://huggingface.co/spaces/mukarwema/YOUR_SPACE_NAME)
+[![HuggingFace Space](https://img.shields.io/badge/🤗-HuggingFace%20Space-yellow)](https://huggingface.co/spaces/mukarwema/financial-qa-assistant)
 [![Model](https://img.shields.io/badge/🤗-Model-blue)](https://huggingface.co/mukarwema/financial-qa-assistant)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -591,6 +591,7 @@ This AI assistant is for **educational and informational purposes only**. It is:
 *Demonstrating the power of parameter-efficient fine-tuning for domain-specific LLMs*
 
 </div>
+
 
 
 
